@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#include "GitHubTest-C++.h"
 
 int main()
 {
